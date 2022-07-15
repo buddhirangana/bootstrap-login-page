@@ -1,0 +1,33 @@
+body {
+  background: #1ebba3;
+  background: linear-gradient(to right, #1ebba3, #2d2e2e);
+}
+
+.card-img-left {
+  width: 60%;
+  background: scroll center url('../image/background.webp');
+  background-size: cover;
+}
+
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+  background-color: #1ebba3 !important;
+}
+
+.btn-google-icon {
+  color: white !important;
+  background-color: #ea4335 !important;
+}
+
+.btn-facebook-icon {
+  color: white !important;
+  background-color: #3b5998 !important;
+
+}
+
+.btn-twitter-icon {
+  color: white !important;
+  background-color: #55ACEE !important;
+}
